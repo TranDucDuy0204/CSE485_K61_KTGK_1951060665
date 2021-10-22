@@ -1,6 +1,6 @@
 <?php
 // Bước 1: Kết nối tới CSDL:
-define('WWW', 'http://localhost/CSE485_K61_KTGK_195-master/');
+define('WWW', 'http://localhost/CSE485_K61_KTGK_1951060665/');
 define('HOST', 'localhost');
 define('USER', 'root');
 const PASS = '';
